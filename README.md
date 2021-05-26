@@ -1,23 +1,24 @@
 # Sakura - Redmi Note 8 / Note 8T
-## May 26th Update | **Mid-May Update**
+## May 26th Update | **Mid-May Hot Fix Update**
 
 ## Download
 ### GApps Variant - 1.4 GB 
-##### MD5: 6a5ecfe4fda4b58278380059f50f2406
-#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210525/ProjectSakura-5.R-GAPPS-20210525-1229-ginkgo-UNOFFICIAL.zip/download)
-#### [GDrive (Only use if SF is broken)](https://bit.ly/3oUPHyf)
+##### MD5: 2719e26a2ca963ef1b40ac7dae437bf7
+#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210526/ProjectSakura-5.R-GAPPS-20210526-1636-ginkgo-UNOFFICIAL.zip/download)
+#### [GDrive (Only use if SF is broken)](https://bit.ly/3fnGxr6)
+
+### Vanilla Variant - 1.1 GB 
+##### MD5: dca853114ae5e2cfa2d76a5203daebe4
+#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210526/ProjectSakura-5.R-VANILLA-20210526-1517-ginkgo-UNOFFICIAL.zip/download)
+#### [GDrive (Only use if SF is broken)](https://bit.ly/34isjRI)
 
 ## Changelog
 
-- Fixed an issue where FPS Info did not work.
-- The weird looking arrow above the dock is gone.
-- Switched to full gesture navigation as default.
-- You can now see your battery's temperature in Battery Settings
-- Updated translations
+- Added Blur toggle in developer options
+- Vanilla Builds for Mid May Update
 
 ## Credits
 
-* @whyredFire for helping 
 * @ghostrider_reborn for trees
 
 ## Instructions to Install

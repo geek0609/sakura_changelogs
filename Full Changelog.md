@@ -1,5 +1,10 @@
 # Sakura - Redmi Note 8 / Note 8T
 
+## Changelog 26th May 2021 (2) HOTFIX Update
+
+- Added Blur toggle in developer options
+- Vanilla Builds for Mid May Update
+
 ## Changelog 26th May 2021
 
 - Fixed an issue where FPS Info did not work.
