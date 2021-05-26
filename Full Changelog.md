@@ -1,5 +1,13 @@
 # Sakura - Redmi Note 8 / Note 8T
 
+## Changelog 26th May 2021
+
+- Fixed an issue where FPS Info did not work.
+- The weird looking arrow above the dock is gone.
+- Switched to full gesture navigation as default.
+- You can now see your battery's temperature in Battery Settings
+- Updated translations
+
 ## Changelog 15th May 2021 (2)
 
 - Switched to Arrow trees

@@ -1,29 +1,24 @@
 # Sakura - Redmi Note 8 / Note 8T
-## May 15 Update | **Optional (and/or) Minor Update**
+## May 26th Update | **Mid-May Update**
 
 ## Download
-### GApps Varient - 1.3 GB 
-##### MD5  :9bbb0d698d3fbc65d2828aa24308a622
-#### [SF](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210513/ProjectSakura-5.R-GAPPS-20210513-2304-ginkgo-UNOFFICIAL.zip/download)
-#### [GDrive (Only use if SF is broken)](https://dsashwin.whyredfire.workers.dev/0:/ginkgo/sakura/20210513/ProjectSakura-5.R-GAPPS-20210513-2304-ginkgo-UNOFFICIAL.zip)
+### GApps Variant - 1.4 GB 
+##### MD5: 6a5ecfe4fda4b58278380059f50f2406
+#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210525/ProjectSakura-5.R-GAPPS-20210525-1229-ginkgo-UNOFFICIAL.zip/download)
+#### [GDrive (Only use if SF is broken)](https://bit.ly/3oUPHyf)
 
-### Vanilla Varient - 971.8 MB
-##### MD5  :5ce7293244eaa1b5af9858c4badf8ebc
-#### [SF](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210513/ProjectSakura-5.R-VANILLA-20210513-2137-ginkgo-UNOFFICIAL.zip/download)
-#### [GDrive  (Only use if SF is broken)](https://dsashwin.whyredfire.workers.dev/0:/ginkgo/sakura/20210513/ProjectSakura-5.R-VANILLA-20210513-2137-ginkgo-UNOFFICIAL.zip)
 ## Changelog
 
-- Remove unused Snapcamera
-- Fixed "Ok Google"
-- Added my name as Maintainer XD
-- Now GApps + Vanilla Builds
+- Fixed an issue where FPS Info did not work.
+- The weird looking arrow above the dock is gone.
+- Switched to full gesture navigation as default.
+- You can now see your battery's temperature in Battery Settings
+- Updated translations
 
 ## Credits
 
 * @whyredFire for helping 
-* @ghostrider_reborn for miui camera
-* @DarkJoker360dev For his trees
-* @Prophecy_Child for SurgeX
+* @ghostrider_reborn for trees
 
 ## Instructions to Install
 ### Clean Flash
