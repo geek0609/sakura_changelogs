@@ -1,5 +1,10 @@
 # Sakura - Redmi Note 8 / Note 8T
 
+## Changelog 15th May 2021 (2)
+
+- Switched to Arrow trees
+- Added Xiaomi Parts
+
 ## Changelog 15th May 2021
 
 - Remove unused Snapcamera
