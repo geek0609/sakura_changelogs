@@ -1,6 +1,12 @@
 # Sakura - Redmi Note 8 / Note 8T
 
-## Changelog 26th May 2021 (2) HOTFIX Update
+## Changelog 18th June 2021
+
+- Fixed an issue where Google Assistant: Voice Match was broken 
+- June security patch
+- [Source Changes](https://projectsakura.xyz/blog/#/5.1-june-2021-update) 
+
+## Changelog 26th May 2021 (2) HOTFIX 
 
 - Added Blur toggle in developer options
 - Vanilla Builds for Mid May Update
@@ -22,7 +28,7 @@
 
 - Remove unused Snapcamera
 - Fixed "Ok Google"
-- Added my name as Maintainer XD
+- Added my name as Maintainer
 - Now GApps + Vanilla Builds
 
 

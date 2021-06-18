@@ -1,25 +1,51 @@
 # Sakura - Redmi Note 8 / Note 8T
-## May 26th Update | **Mid-May Hot Fix Update**
+## June 18th 2021 Update | **June Update**
 
-## Download
-### GApps Variant - 1.4 GB 
-##### MD5: 2719e26a2ca963ef1b40ac7dae437bf7
-#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210526/ProjectSakura-5.R-GAPPS-20210526-1636-ginkgo-UNOFFICIAL.zip/download)
-#### [GDrive (Only use if SF is broken)](https://bit.ly/3fnGxr6)
-
-### Vanilla Variant - 1.1 GB 
-##### MD5: dca853114ae5e2cfa2d76a5203daebe4
-#### [sourceforge.net](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210526/ProjectSakura-5.R-VANILLA-20210526-1517-ginkgo-UNOFFICIAL.zip/download)
-#### [GDrive (Only use if SF is broken)](https://bit.ly/34isjRI)
-
+## Disclaimer
+```
+* Your warranty is now void.
+* We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+* You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+```
 ## Changelog
 
-- Added Blur toggle in developer options
-- Vanilla Builds for Mid May Update
+- Fixed an issue where Google Assistant: Voice Match was broken 
+- June security patch
+- [Source Changes](https://projectsakura.xyz/blog/#/5.1-june-2021-update) 
 
 ## Credits
 
-* @ghostrider_reborn for trees
+* [@ghostrider_reborn](https://github.com/ghostrider-reborn) for trees
+
+## Notes
+
+* If flashing GApps, use Flame GApps, scroll down for links
+* Unofficial build
+
+
+## Download
+### GApps Variant - 1.5 GB
+
+MD5: 2719e26a2ca963ef1b40ac7dae437bf7
+
+* [Sourceforge](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210618/ProjectSakura-5.1-GAPPS-20210618-0901-ginkgo-UNOFFICIAL.zip/download)
+
+* [Github](https://github.com/geek0609/sakura_device_xiaomi_ginkgo/releases/download/20210618/ProjectSakura-5.1-GAPPS-20210618-0901-ginkgo-UNOFFICIAL.zip)
+
+
+### Vanilla Variant - 1.1 GB
+
+MD5: 6eef5cd3b28f5cf038b5c30565ea9059
+
+* [Sourceforge](https://sourceforge.net/projects/ashwin-rom-builds/files/Ginkgo/Project_Sakura/20210618/ProjectSakura-5.1-VANILLA-20210617-1731-ginkgo-UNOFFICIAL.zip/download)
+
+* [Github](https://github.com/geek0609/sakura_device_xiaomi_ginkgo/releases/download/20210618/ProjectSakura-5.1-VANILLA-20210617-1731-ginkgo-UNOFFICIAL.zip)
+
+
+## Screenshots
+
+Check them out [here](https://t.me/ashwin_cloud/16)
+
 
 ## Instructions to Install
 ### Clean Flash
